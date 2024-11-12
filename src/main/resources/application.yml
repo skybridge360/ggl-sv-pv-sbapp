@@ -5,7 +5,7 @@ server:
   port: 8555
 google:
   api:
-    key: AIzaSyBX3FnFZGPCxSBgEKiUZ6eQI22a09MBoXQ
+    key: xxxxx
     opformat: json
   sv:
     image:
