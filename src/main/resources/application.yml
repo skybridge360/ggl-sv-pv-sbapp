@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: direct-view
+server:
+  port: 8555
+google:
+  api:
+    key: AIzaSyBX3FnFZGPCxSBgEKiUZ6eQI22a09MBoXQ
+    opformat: json
+  sv:
+    image:
+      width: 600
+      height: 300
+      pitch: 10
+download:
+  folder:
+    path: C:\\Users\\Manu\\Desktop\\GSV
